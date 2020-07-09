@@ -5,6 +5,8 @@ A simple front end application which can be used for choosing a image, which wil
 The Trained Model and the weights file can be found in the link:
 
 Model: CRNN_model_20200708.h5
+
+
 Weights: best_model_20200708.hdf5
 
 
