@@ -8,12 +8,12 @@ import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import backend as k
 
-from test_for_streamlit import get_statename
+from process_text import get_statename
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import backend as k
 
-path = "C:\\Users\\Satish\\Desktop\\testImages"
+#path = "C:\\Users\\Satish\\Desktop\\testImages"
 
 # load model
 model = keras.models.load_model("CRNN_model_20200708.h5")
